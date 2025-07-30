@@ -86,9 +86,9 @@ function House() {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.2, duration: 0.8 }}
           >
-            From the House of{" "}
+            Brands Powered by {" "}
             <span className="bg-gradient-to-r from-yellow-400 via-orange-500 to-red-500 bg-clip-text text-transparent">
-              Bonhoeffer Machines
+              Bonhoeffer’s Legacy
             </span>
           </motion.h2>
 
@@ -98,8 +98,9 @@ function House() {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4, duration: 0.8 }}
           >
-            A trusted ecosystem of brands delivering excellence across diverse markets, 
-            united by our commitment to innovation and quality.
+            
+From Mechnova’s machines for light jobs to Bonhoeffer’s powerhouse machines built for nonstop work, each brand serves a different kind of user. Stronwell is the steady choice for everyday pros, while Stevron brings precise and reliable power tools. Each brand is driven by shared values and a commitment to deeply understand and solve challenges at every level—because those who choose Bonhoeffer expect nothing less. 
+ 
           </motion.p>
         </motion.div>
 
